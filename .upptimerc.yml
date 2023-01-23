@@ -12,7 +12,8 @@ sites:
     url: https://proton.me
 
 status-website:
-  baseUrl: /upptime
+  #baseUrl: /upptime
+  cname: uptime.sraaronrock.ovh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
