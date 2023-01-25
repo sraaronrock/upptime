@@ -22,19 +22,19 @@
     "url": "https://metager.org",
     "icon": "https://icons.duckduckgo.com/ip3/metager.org.ico",
     "slug": "meta-ger",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 601,
-    "timeDay": 531,
-    "timeWeek": 601,
-    "timeMonth": 601,
-    "timeYear": 601,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 592,
+    "timeDay": 530,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 11
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://proton.me",
     "icon": "https://icons.duckduckgo.com/ip3/proton.me.ico",
     "slug": "proton-mail",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "95.78%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "97.26%",
-    "time": 1328,
-    "timeDay": 2041,
-    "timeWeek": 1328,
-    "timeMonth": 1328,
-    "timeYear": 1328,
+    "status": "up",
+    "uptime": "96.79%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "96.79%",
+    "time": 1242,
+    "timeDay": 1692,
+    "timeWeek": 1242,
+    "timeMonth": 1242,
+    "timeYear": 1242,
     "dailyMinutesDown": {
-      "2023-01-25": 61
+      "2023-01-25": 72
     }
   }
 ]
