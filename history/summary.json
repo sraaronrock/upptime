@@ -58,19 +58,19 @@
     "url": "https://proton.me",
     "icon": "https://icons.duckduckgo.com/ip3/proton.me.ico",
     "slug": "proton-mail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 727,
-    "timeWeek": 780,
-    "timeMonth": 780,
-    "timeYear": 780,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1345,
+    "timeDay": 2448,
+    "timeWeek": 1345,
+    "timeMonth": 1345,
+    "timeYear": 1345,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 3
     }
   }
 ]
