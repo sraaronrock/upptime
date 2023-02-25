@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 91,
-    "timeDay": 91,
-    "timeWeek": 111,
-    "timeMonth": 93,
-    "timeYear": 91,
+    "time": 93,
+    "timeDay": 114,
+    "timeWeek": 116,
+    "timeMonth": 95,
+    "timeYear": 93,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 620,
-    "timeWeek": 716,
-    "timeMonth": 688,
-    "timeYear": 670,
+    "time": 667,
+    "timeDay": 600,
+    "timeWeek": 702,
+    "timeMonth": 685,
+    "timeYear": 667,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 264,
-    "timeWeek": 750,
-    "timeMonth": 386,
-    "timeYear": 371,
+    "time": 367,
+    "timeDay": 245,
+    "timeWeek": 690,
+    "timeMonth": 381,
+    "timeYear": 367,
     "dailyMinutesDown": {}
   },
   {
@@ -64,33 +64,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1051,
-    "timeDay": 860,
-    "timeWeek": 900,
-    "timeMonth": 1003,
-    "timeYear": 1051,
+    "time": 1047,
+    "timeDay": 872,
+    "timeWeek": 899,
+    "timeMonth": 999,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2023-01-25": 72
     }
   },
   {
     "name": "ForPlayers",
-    "url": "server.fpcomunidad.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://wiki.fpcomunidad.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/wiki.fpcomunidad.com.ico",
     "slug": "for-players",
-    "status": "down",
-    "uptime": "8.28%",
-    "uptimeDay": "8.28%",
-    "uptimeWeek": "8.28%",
-    "uptimeMonth": "8.28%",
-    "uptimeYear": "8.28%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.25%",
+    "uptimeDay": "2.25%",
+    "uptimeWeek": "2.25%",
+    "uptimeMonth": "2.25%",
+    "uptimeYear": "2.25%",
+    "time": 939,
+    "timeDay": 939,
+    "timeWeek": 939,
+    "timeMonth": 939,
+    "timeYear": 939,
     "dailyMinutesDown": {
-      "2023-02-25": 0
+      "2023-02-25": 4
     }
   }
 ]
