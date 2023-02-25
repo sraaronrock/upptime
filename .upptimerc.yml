@@ -11,7 +11,7 @@ sites:
   - name: ProtonMail
     url: https://proton.me
   - name: ForPlayers
-    url: server.fpcomunidad.com
+    url: https://wiki.fpcomunidad.com/
 
 status-website:
   #baseUrl: /upptime
