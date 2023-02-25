@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 107,
-    "timeWeek": 116,
+    "timeDay": 91,
+    "timeWeek": 111,
     "timeMonth": 93,
     "timeYear": 91,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 651,
-    "timeWeek": 736,
+    "time": 670,
+    "timeDay": 620,
+    "timeWeek": 716,
     "timeMonth": 688,
-    "timeYear": 673,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 287,
-    "timeWeek": 823,
-    "timeMonth": 391,
-    "timeYear": 375,
+    "time": 371,
+    "timeDay": 264,
+    "timeWeek": 750,
+    "timeMonth": 386,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   },
   {
@@ -62,15 +62,35 @@
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1059,
-    "timeDay": 986,
-    "timeWeek": 923,
-    "timeMonth": 1100,
-    "timeYear": 1059,
+    "time": 1051,
+    "timeDay": 860,
+    "timeWeek": 900,
+    "timeMonth": 1003,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2023-01-25": 72
+    }
+  },
+  {
+    "name": "ForPlayers",
+    "url": "server.fpcomunidad.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "for-players",
+    "status": "down",
+    "uptime": "13.19%",
+    "uptimeDay": "13.19%",
+    "uptimeWeek": "13.19%",
+    "uptimeMonth": "13.19%",
+    "uptimeYear": "13.19%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-02-25": 0
     }
   }
 ]
