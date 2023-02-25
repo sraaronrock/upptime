@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fpcomunidad.com.ico",
     "slug": "for-players",
     "status": "up",
-    "uptime": "2.25%",
-    "uptimeDay": "2.25%",
-    "uptimeWeek": "2.25%",
-    "uptimeMonth": "2.25%",
-    "uptimeYear": "2.25%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 939,
     "timeDay": 939,
     "timeWeek": 939,
     "timeMonth": 939,
     "timeYear": 939,
-    "dailyMinutesDown": {
-      "2023-02-25": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
