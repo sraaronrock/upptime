@@ -10,6 +10,8 @@ sites:
     url: https://www.ducodog.es
   - name: ProtonMail
     url: https://proton.me
+  - name: ForPlayers
+    url: server.fpcomunidad.com
 
 status-website:
   #baseUrl: /upptime
