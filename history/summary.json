@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 64,
-    "timeWeek": 154,
-    "timeMonth": 142,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "time": 113,
+    "timeDay": 300,
+    "timeWeek": 192,
+    "timeMonth": 154,
+    "timeYear": 113,
+    "dailyMinutesDown": {
+      "2023-07-21": 0
+    }
   },
   {
     "name": "MetaGer",
