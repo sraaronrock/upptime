@@ -42,19 +42,19 @@
     "url": "https://www.ducodog.es",
     "icon": "https://icons.duckduckgo.com/ip3/www.ducodog.es.ico",
     "slug": "duco-dog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 277,
-    "timeWeek": 347,
-    "timeMonth": 375,
-    "timeYear": 424,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "91.17%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.95%",
+    "time": 425,
+    "timeDay": 426,
+    "timeWeek": 375,
+    "timeMonth": 381,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2023-08-04": 0
+      "2023-08-04": 127
     }
   },
   {
