@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 85,
-    "timeWeek": 131,
-    "timeMonth": 133,
+    "timeDay": 111,
+    "timeWeek": 137,
+    "timeMonth": 132,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2023-07-21": 17
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 755,
-    "timeWeek": 910,
-    "timeMonth": 865,
-    "timeYear": 725,
+    "time": 726,
+    "timeDay": 926,
+    "timeWeek": 921,
+    "timeMonth": 873,
+    "timeYear": 726,
     "dailyMinutesDown": {}
   },
   {
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ducodog.es.ico",
     "slug": "duco-dog",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 424,
-    "timeDay": 209,
-    "timeWeek": 399,
-    "timeMonth": 385,
+    "timeDay": 294,
+    "timeWeek": 400,
+    "timeMonth": 381,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2023-08-04": 127
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 966,
-    "timeDay": 624,
-    "timeWeek": 1493,
-    "timeMonth": 1002,
-    "timeYear": 966,
+    "time": 965,
+    "timeDay": 642,
+    "timeWeek": 1463,
+    "timeMonth": 980,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2023-01-25": 72
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 228,
-    "timeWeek": 221,
-    "timeMonth": 281,
-    "timeYear": 243,
+    "time": 242,
+    "timeDay": 152,
+    "timeWeek": 223,
+    "timeMonth": 274,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   }
 ]
