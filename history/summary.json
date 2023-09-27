@@ -24,19 +24,19 @@
     "url": "https://metager.org",
     "icon": "https://icons.duckduckgo.com/ip3/metager.org.ico",
     "slug": "meta-ger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 768,
-    "timeDay": 763,
+    "timeDay": 794,
     "timeWeek": 856,
-    "timeMonth": 952,
+    "timeMonth": 949,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2023-09-27": 0
+      "2023-09-27": 19
     }
   },
   {
