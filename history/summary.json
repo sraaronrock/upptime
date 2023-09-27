@@ -24,18 +24,20 @@
     "url": "https://metager.org",
     "icon": "https://icons.duckduckgo.com/ip3/metager.org.ico",
     "slug": "meta-ger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 769,
-    "timeDay": 1004,
-    "timeWeek": 903,
-    "timeMonth": 966,
-    "timeYear": 769,
-    "dailyMinutesDown": {}
+    "time": 768,
+    "timeDay": 763,
+    "timeWeek": 856,
+    "timeMonth": 952,
+    "timeYear": 768,
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "DucoDog",
