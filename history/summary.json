@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 88,
-    "timeWeek": 74,
-    "timeMonth": 92,
+    "timeDay": 56,
+    "timeWeek": 69,
+    "timeMonth": 91,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2023-10-16": 27,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 814,
-    "timeDay": 1171,
-    "timeWeek": 945,
-    "timeMonth": 995,
+    "timeDay": 828,
+    "timeWeek": 903,
+    "timeMonth": 1003,
     "timeYear": 814,
     "dailyMinutesDown": {
       "2023-10-29": 59,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 425,
-    "timeDay": 455,
-    "timeWeek": 397,
-    "timeMonth": 411,
-    "timeYear": 425,
+    "time": 424,
+    "timeDay": 259,
+    "timeWeek": 370,
+    "timeMonth": 406,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2023-10-03": 19,
       "2023-08-04": 127
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 942,
-    "timeDay": 1177,
-    "timeWeek": 1029,
-    "timeMonth": 974,
-    "timeYear": 942,
+    "time": 941,
+    "timeDay": 666,
+    "timeWeek": 950,
+    "timeMonth": 962,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2023-01-25": 72
     }
@@ -90,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fpcomunidad.com.ico",
     "slug": "for-players",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.75%",
+    "uptimeDay": "31.13%",
+    "uptimeWeek": "90.16%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "99.75%",
     "time": 241,
-    "timeDay": 138,
-    "timeWeek": 271,
-    "timeMonth": 319,
+    "timeDay": 0,
+    "timeWeek": 298,
+    "timeMonth": 330,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-11-30": 0
+      "2023-12-01": 73,
+      "2023-11-30": 919
     }
   }
 ]
