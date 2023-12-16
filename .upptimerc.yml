@@ -8,8 +8,10 @@ sites:
     url: https://metager.org
   - name: ProtonMail
     url: https://proton.me
-  - name: ForPlayers
+  - name: ForPlayersForo
     url: https://foro.fplayers.com/
+  - name: ForPlayersFP
+    url: https://fplayers.com/
 
 status-website:
   #baseUrl: /upptime
