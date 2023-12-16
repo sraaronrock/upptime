@@ -6,12 +6,10 @@ sites:
     url: https://www.google.com
   - name: MetaGer
     url: https://metager.org
-  - name: DucoDog
-    url: https://www.ducodog.es
   - name: ProtonMail
     url: https://proton.me
   - name: ForPlayers
-    url: https://wiki.fpcomunidad.com/
+    url: https://foro.fplayers.com/
 
 status-website:
   #baseUrl: /upptime
