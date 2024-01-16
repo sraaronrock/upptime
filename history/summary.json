@@ -69,19 +69,19 @@
     "url": "https://foro.fplayers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/foro.fplayers.com.ico",
     "slug": "for-players-foro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 506,
-    "timeWeek": 493,
-    "timeMonth": 545,
-    "timeYear": 545,
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "64.51%",
+    "uptimeWeek": "94.93%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.85%",
+    "time": 547,
+    "timeDay": 558,
+    "timeWeek": 507,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-01-16": 1
+      "2024-01-16": 511
     }
   },
   {
@@ -89,19 +89,19 @@
     "url": "https://fplayers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fplayers.com.ico",
     "slug": "for-players-fp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1353,
-    "timeDay": 1268,
-    "timeWeek": 1255,
-    "timeMonth": 1353,
-    "timeYear": 1353,
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "64.54%",
+    "uptimeWeek": "94.93%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.85%",
+    "time": 1359,
+    "timeDay": 1414,
+    "timeWeek": 1293,
+    "timeMonth": 1359,
+    "timeYear": 1359,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 511
     }
   }
 ]
