@@ -67,10 +67,10 @@
     "url": "https://foro.fplayers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/foro.fplayers.com.ico",
     "slug": "for-players-foro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.39%",
     "time": 520,
@@ -79,6 +79,7 @@
     "timeMonth": 500,
     "timeYear": 520,
     "dailyMinutesDown": {
+      "2024-02-13": 1,
       "2024-01-16": 511
     }
   },
@@ -87,9 +88,9 @@
     "url": "https://fplayers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fplayers.com.ico",
     "slug": "for-players-fp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.39%",
@@ -99,6 +100,7 @@
     "timeMonth": 1303,
     "timeYear": 1328,
     "dailyMinutesDown": {
+      "2024-02-13": 0,
       "2024-01-16": 511
     }
   }
