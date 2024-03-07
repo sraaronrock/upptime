@@ -88,9 +88,9 @@
     "url": "https://fplayers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fplayers.com.ico",
     "slug": "for-players-fp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "99.06%",
@@ -100,6 +100,7 @@
     "timeMonth": 1308,
     "timeYear": 1317,
     "dailyMinutesDown": {
+      "2024-03-07": 0,
       "2024-02-13": 592,
       "2024-01-16": 511
     }
