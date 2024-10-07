@@ -1,7 +1,7 @@
 url: https://metager.org
-status: up
-code: 200
-responseTime: 634
-lastUpdated: 2024-10-06T23:06:33.364Z
+status: down
+code: 503
+responseTime: 827
+lastUpdated: 2024-10-07T08:19:12.061Z
 startTime: 2023-01-23T20:14:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
