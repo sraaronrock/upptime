@@ -26,9 +26,9 @@
     "url": "https://metager.org",
     "icon": "https://icons.duckduckgo.com/ip3/metager.org.ico",
     "slug": "meta-ger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -38,6 +38,7 @@
     "timeMonth": 770,
     "timeYear": 802,
     "dailyMinutesDown": {
+      "2025-02-20": 0,
       "2024-12-03": 22,
       "2024-10-24": 17,
       "2024-10-07": 56
