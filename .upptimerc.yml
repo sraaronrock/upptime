@@ -4,11 +4,13 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: MetaGer
-    url: https://metager.org
-  - name: ProtonMail
+  - name: ProtonCorp
     url: https://proton.me
-    
+  - name: Sraaronrock Hosting
+    url: https://sraaronrock.ovh
+  - name: NextDNS
+    url: https://nextdns.io/
+
 status-website:
   #baseUrl: /upptime
   cname: uptime.sraaronrock.ovh
