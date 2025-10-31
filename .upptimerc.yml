@@ -6,8 +6,6 @@ sites:
     url: https://www.google.com
   - name: ProtonCorp
     url: https://proton.me
-  - name: Sraaronrock Hosting
-    url: https://sraaronrock.ovh
   - name: NextDNS
     url: https://nextdns.io/
 
