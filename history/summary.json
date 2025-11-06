@@ -42,17 +42,19 @@
     "url": "https://nextdns.io/",
     "icon": "https://icons.duckduckgo.com/ip3/nextdns.io.ico",
     "slug": "next-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 295,
-    "timeWeek": 280,
-    "timeMonth": 253,
-    "timeYear": 253,
-    "dailyMinutesDown": {}
+    "time": 251,
+    "timeDay": 260,
+    "timeWeek": 275,
+    "timeMonth": 251,
+    "timeYear": 251,
+    "dailyMinutesDown": {
+      "2025-11-06": 0
+    }
   }
 ]
