@@ -11,13 +11,12 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 122,
-    "timeDay": 69,
-    "timeWeek": 122,
+    "timeDay": 85,
+    "timeWeek": 121,
     "timeMonth": 228,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-11-23": 16,
-      "2024-11-26": 36
+      "2025-11-23": 16
     }
   },
   {
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1010,
-    "timeDay": 893,
-    "timeWeek": 1114,
-    "timeMonth": 1010,
-    "timeYear": 1010,
+    "time": 1011,
+    "timeDay": 1049,
+    "timeWeek": 1088,
+    "timeMonth": 1011,
+    "timeYear": 1011,
     "dailyMinutesDown": {}
   },
   {
@@ -44,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextdns.io.ico",
     "slug": "next-dns",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 253,
-    "timeDay": 191,
-    "timeWeek": 242,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
+    "time": 255,
+    "timeDay": 373,
+    "timeWeek": 263,
+    "timeMonth": 255,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2025-11-18": 93,
       "2025-11-06": 29
