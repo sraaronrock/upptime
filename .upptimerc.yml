@@ -7,15 +7,15 @@ sites:
   - name: Bing
     url: https://www.bing.com
   - name: Hyspania
-    url: https://hyspania.net/
+    url: https://hyspania.net
   - name: Sraaronrock Corp
-    url: https://sraaronrock.ovh/
+    url: https://sraaronrock.ovh
   - name: ProtonCorp
     url: https://proton.me
   - name: NextDNS
-    url: https://nextdns.io/
+    url: https://nextdns.io
   - name: Tailscale
-    url: tailscale.com
+    url: https://tailscale.com
     
 status-website:
   #baseUrl: /upptime
