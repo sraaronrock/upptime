@@ -21,6 +21,64 @@
     }
   },
   {
+    "name": "Bing",
+    "url": "https://www.bing.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.bing.com.ico",
+    "slug": "bing",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Hyspania",
+    "url": "https://hyspania.net/",
+    "icon": "https://icons.duckduckgo.com/ip3/hyspania.net.ico",
+    "slug": "hyspania",
+    "status": "up",
+    "uptime": "1.07%",
+    "uptimeDay": "1.07%",
+    "uptimeWeek": "1.07%",
+    "uptimeMonth": "1.07%",
+    "uptimeYear": "1.07%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-04-03": 0
+    }
+  },
+  {
+    "name": "Sraaronrock Corp",
+    "url": "https://sraaronrock.ovh/",
+    "icon": "https://icons.duckduckgo.com/ip3/sraaronrock.ovh.ico",
+    "slug": "sraaronrock-corp",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-04-03": 0
+    }
+  },
+  {
     "name": "ProtonCorp",
     "url": "https://proton.me",
     "icon": "https://icons.duckduckgo.com/ip3/proton.me.ico",
@@ -58,5 +116,23 @@
       "2025-11-18": 93,
       "2025-11-06": 29
     }
+  },
+  {
+    "name": "Tailscale",
+    "url": "tailscale.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "tailscale",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
