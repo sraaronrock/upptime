@@ -27,18 +27,20 @@
     "url": "https://www.bing.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bing.com.ico",
     "slug": "bing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 83,
-    "timeWeek": 96,
-    "timeMonth": 167,
-    "timeYear": 168,
-    "dailyMinutesDown": {}
+    "time": 165,
+    "timeDay": 70,
+    "timeWeek": 91,
+    "timeMonth": 163,
+    "timeYear": 165,
+    "dailyMinutesDown": {
+      "2026-05-14": 0
+    }
   },
   {
     "name": "Hyspania",
