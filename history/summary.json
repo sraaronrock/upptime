@@ -11,8 +11,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
     "time": 124,
-    "timeDay": 55,
-    "timeWeek": 129,
+    "timeDay": 61,
+    "timeWeek": 122,
     "timeMonth": 96,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 142,
-    "timeDay": 80,
-    "timeWeek": 111,
-    "timeMonth": 123,
-    "timeYear": 142,
+    "time": 143,
+    "timeDay": 298,
+    "timeWeek": 123,
+    "timeMonth": 127,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2026-05-14": 28
     }
@@ -56,8 +56,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 125,
-    "timeDay": 48,
-    "timeWeek": 131,
+    "timeDay": 76,
+    "timeWeek": 121,
     "timeMonth": 121,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 40,
-    "timeWeek": 141,
-    "timeMonth": 136,
+    "timeDay": 119,
+    "timeWeek": 129,
+    "timeMonth": 135,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2026-04-03": 2
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1109,
-    "timeDay": 1092,
-    "timeWeek": 1270,
-    "timeMonth": 1287,
+    "timeDay": 999,
+    "timeWeek": 1272,
+    "timeMonth": 1289,
     "timeYear": 1109,
     "dailyMinutesDown": {}
   },
@@ -114,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 243,
-    "timeDay": 220,
-    "timeWeek": 251,
-    "timeMonth": 216,
+    "timeDay": 317,
+    "timeWeek": 264,
+    "timeMonth": 223,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-11-06": 29,
@@ -135,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 199,
-    "timeDay": 106,
-    "timeWeek": 220,
-    "timeMonth": 179,
+    "timeDay": 180,
+    "timeWeek": 203,
+    "timeMonth": 182,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2026-04-25": 19
