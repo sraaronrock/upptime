@@ -129,20 +129,20 @@
     "url": "https://tailscale.com",
     "icon": "https://icons.duckduckgo.com/ip3/tailscale.com.ico",
     "slug": "tailscale",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 203,
-    "timeDay": 196,
-    "timeWeek": 212,
-    "timeMonth": 224,
+    "timeDay": 137,
+    "timeWeek": 196,
+    "timeMonth": 220,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2026-04-25": 19,
-      "2026-08-16": 0
+      "2026-08-16": 29
     }
   }
 ]
